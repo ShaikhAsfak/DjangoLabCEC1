@@ -3,6 +3,7 @@
 Hello , I am <b>Shaikh Asfak</b>.<br>
 This is my first repository on github.<br>
 It is simple 'django' project which is part of my CEC (Test) to integrate any portfolio template from Internet with django framework for practise purpose.<br>
+Prerequisite : Python And Django must be instlled in your system.<br>
 
 <b>Portfolio Template Credits : </b>
   * Template Name: Laura <br>
